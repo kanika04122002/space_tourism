@@ -1,0 +1,58 @@
+.a{
+    background-image:url('assets/home/background-home-desktop.jpg');
+}
+
+.b{
+    background-image:url('assets/destination/background-destination-desktop.jpg');
+}
+.b2{
+    background-image:url('assets/crew/background-crew-desktop.jpg');
+}
+.b3{
+    background-image: url('assets/technology/background-technology-desktop.jpg');
+}
+
+.c{
+    margin-top:100px!important;
+}
+
+.explore{
+    color: black;
+    font-size: 20px;
+    
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+
+.d{
+    margin: 100px!important;
+    padding: 40px!important;
+
+}
+
+.circle{
+    height: 200px;
+    width: 200px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 40%;
+}
+.exp{
+    margin-top: 60px!important;
+}
+
+
+.e{
+    margin-left: 550px!important;
+     padding: 100px!important;
+    flex: justify-conntent-center!important;
+    width: 500px!important;
+    margin-bottom: 80px!important;
+}
+
+.f{
+    text-align: left !important;
+}
